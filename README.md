@@ -14,7 +14,7 @@
    
 <!-- ---------------------------------------------------------------- --> 
 
-## About Me
+## 👨🏻‍🎓 About Me
 Check here: [![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=Github&logoColor=white)](https://github.com/mrmeetawa)
 
    <!-- ---------------------------------------------------------------- -->
